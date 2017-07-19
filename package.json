@@ -1,18 +1,18 @@
 {
-    "name": "grunt-aws-lambda",
+    "name": "grunt-aws-lambda-multiregion",
     "description": "A grunt plugin to help develop AWS Lambda functions.",
-    "version": "0.13.0",
-    "homepage": "https://github.com/Tim-B/grunt-aws-lambda",
+    "version": "0.13.1",
+    "homepage": "https://github.com/skrassiev/grunt-aws-lambda",
     "author": {
-        "name": "Tim-B",
-        "email": "tim@galacticcode.com"
+        "name": "skrassiev",
+        "email": "sasha.krassiev@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/Tim-B/grunt-aws-lambda.git"
+        "url": "https://github.com/skrassiev/grunt-aws-lambda.git"
     },
     "bugs": {
-        "url": "https://github.com/Tim-B/grunt-aws-lambda/issues"
+        "url": "https://github.com/skrassiev/grunt-aws-lambda/issues"
     },
     "licenses": [
         {
